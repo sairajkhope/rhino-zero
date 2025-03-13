@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Inform browsers about supported color schemes */
+  color-scheme: light dark;
+
+  /* Default light mode variables */
+  --background: #ffffff;
+  --foreground: #000000;
+  --highlight: #f5f5f5;
+  --border: #dddddd;
+  --card-shadow: rgba(0, 0, 0, 0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Override with dark mode variables */
+    --background: #1a1a1a;
+    --foreground: #ffffff;
+    --highlight: #333333;
+    --border: #333333;
+    --card-shadow: rgba(0, 0, 0, 0.2);
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+a {
+  text-decoration: none;
+  color: var(--foreground);
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--highlight);
+}

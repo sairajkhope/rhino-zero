@@ -1,0 +1,34 @@
+Instructions for trae
+
+Tech Stack
+
+NextJS
+Tailwind
+Typscript
+Framer Motion
+
+
+STEP 1 LAYOUT, SETUP AND COMPONENTS
+
+- Single page portfolio application
+- Each post will be a markdown file
+- The homepage will have a 1:2 grid
+    - Left column will have preview cards for each post with
+        - a rounded rectange card
+        - post title
+        - post subtitle
+        - 3/4 image
+    - Right column will have full rendering of markdown post, including images and youtube embeds
+
+STEP 2 COLOR and Typography
+
+- light aluminium metal grey gradient background
+- translucent background blurred cards
+- etched dark grey text on cards
+- Use bold -0.02em SF Pro as header text and regular -0.01em SF Pro as bodycopy
+- use text buttons with SF Pro bodycopy style
+- use primary colors for buttons apple ui style
+
+STEP 3 Sample markdown
+
+- write a sample markdown post and populate it to test the layout
