@@ -36,8 +36,8 @@ export default function Home() {
       <div className="grid md:grid-cols-3 h-screen">
         <div className="overflow-y-auto scrollbar-hide relative">
           <div className="px-6 py-6 sticky top-0 bg-[var(--background)] border-b border-[var(--border)] z-10 cursor-pointer hover:bg-[var(--highlight)] transition-colors" onClick={() => setSelectedPost(selectedPost === 'about' ? null : 'about')}>
-            <h1 className="text-xl font-normal text-[var(--foreground)] mb-1">Aaryaman Sen</h1>
-            <p className="text-sm opacity-60 text-[var(--foreground)]">2017 - 2024</p>
+            <h1 className="text-xl font-normal text-[var(--foreground)] mb-1">Sairaj Khope</h1>
+            <p className="text-sm opacity-60 text-[var(--foreground)]">2020 - 2024</p>
           </div>
           
           <div className="flex flex-col">
