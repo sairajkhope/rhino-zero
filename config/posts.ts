@@ -11,7 +11,7 @@ export const posts = [
   {
     id: 'alongside-1',
     title: 'Robin',
-    description: 'A collection of demos exploring the future of human-AI interaction',
+    description: 'Your Personal Robot Companion',
     image: '/images/alo-logo.webp',
     category: 'Startup',
     date: '2023'
@@ -19,7 +19,7 @@ export const posts = [
   {
     id: 'alongside-2',
     title: 'Pal',
-    description: 'A collection of demos exploring the future of human-AI interaction',
+    description: 'An interactive character AI Companion',
     image: '/images/alo-logo.webp',
     category: 'Startup',
     date: '2023'
@@ -27,7 +27,7 @@ export const posts = [
   {
     id: 'alongside-3',
     title: 'Creator',
-    description: 'A collection of demos exploring the future of human-AI interaction',
+    description: 'Agentic AI Workspace',
     image: '/images/alo-logo.webp',
     category: 'Startup',
     date: '2024'
@@ -35,7 +35,7 @@ export const posts = [
   {
     id: 'ontheprowl-1',
     title: 'OnTheProwl',
-    description: 'A social robot designed to build trust in autonomous vehicles',
+    description: 'Explorers guide to Indias National Parks',
     image: '/images/ava0.webp',
     category: 'Startup',
     date: '2020'
@@ -43,7 +43,7 @@ export const posts = [
   {
     id: 'ontheprowl-2',
     title: 'OnTheProwl v2',
-    description: 'Next generation social robot that enhances human-vehicle trust through intuitive communication and adaptive interaction',
+    description: 'Travel with your tribe',
     image: '/images/ava0.webp',
     category: 'Startup',
     date: '2021'
@@ -51,9 +51,17 @@ export const posts = [
   {
     id: 'safet',
     title: 'Safe.t',
-    description: 'A robotic system that autonomously replicates LEGO structures',
+    description: 'End-to-End Covid Tracing and Triage',
     image: '/images/creator0.webp',
     category: 'Health',
     date: '2020'
+  },
+  {
+    id: 'hyperloop',
+    title: 'Hyperloop India',
+    description: 'Indias first Hyperloop Pod',
+    image: '/images/creator0.webp',
+    category: 'Health',
+    date: '2017'
   },
 ];
