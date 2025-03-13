@@ -43,10 +43,10 @@ export const posts = [
   {
     id: 'ontheprowl-2',
     title: 'OnTheProwl v2',
-    description: 'A social robot designed to build trust in autonomous vehicles',
+    description: 'Next generation social robot that enhances human-vehicle trust through intuitive communication and adaptive interaction',
     image: '/images/ava0.webp',
     category: 'Startup',
-    date: '2020'
+    date: '2021'
   },
   {
     id: 'safet',
