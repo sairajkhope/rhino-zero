@@ -4,6 +4,9 @@
 
 Creator is our newest demo exploring the collaborative potential between humans and AI in creative processes. Launched in 2024, this project investigates how artificial intelligence can enhance human creativity without replacing the essential human elements that make creative work meaningful.
 
+## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWj0LW8oC34" frameborder="0" allowfullscreen></iframe>
+
 ## Capabilities
 
 - Co-creation of visual and written content
