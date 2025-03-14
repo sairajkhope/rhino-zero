@@ -60,7 +60,7 @@ export const posts = [
     id: 'hyperloop',
     title: 'Hyperloop India',
     description: 'Indias first Hyperloop Pod',
-    image: '/images/creator0.webp',
+    image: '/images/loop-mini.webp',
     category: 'Health',
     date: '2017'
   },
