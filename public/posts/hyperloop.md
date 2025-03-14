@@ -36,6 +36,9 @@ Beyond the competition, Hyperloop India initiated important conversations about:
 
 ![Hyperloop India Pod](/images/creator0.webp)
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=R2Eb02S82cc" frameborder="0" allowfullscreen></iframe>
+
+
 ## Team
 
 The Hyperloop India team brought together talented individuals from engineering, physics, design, and business backgrounds, creating a multidisciplinary approach that addressed the complex challenges of Hyperloop technology development.
