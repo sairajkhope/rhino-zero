@@ -38,17 +38,54 @@ export default function Home() {
       <div className="grid md:grid-cols-3 h-screen">
         <div className="overflow-y-auto scrollbar-hide relative">
           <div
-            className="px-6 py-6 sticky top-0 bg-[var(--background)] border-b border-[var(--border)] z-10 cursor-pointer hover:bg-[var(--highlight)] transition-colors"
+            className={`px-6 pt-6 pb-1 md:pb-6 sticky top-0 bg-[var(--background)] border-b border-[var(--border)] z-10 cursor-pointer md:hover:bg-[var(--highlight)] transition-colors`}
             onClick={() =>
               setSelectedPost(selectedPost === "about" ? null : "about")
             }
           >
-            <h1 className="text-xl font-normal text-[var(--foreground)] mb-1">
-              Sairaj Khope
-            </h1>
-            <p className="text-sm opacity-60 text-[var(--foreground)]">
+            <div className="flex items-center justify-between">
+              <h1 className="text-xl font-normal text-[var(--foreground)] mb-1">
+                Sairaj Khope
+              </h1>
+              <a
+                href="/resume"
+                className="text-sm opacity-60 hover:text-white"
+                // onMouseOver={(e) => {
+                //   e.preventDefault();
+                //   e.stopPropagation();
+                // }}
+              >
+                Resume
+              </a>
+            </div>
+            <div className="text-sm opacity-60 text-[var(--foreground)]">
               Product Designer, Engineer & Artist
-            </p>
+            </div>
+            <div className="md:hidden flex justify-center mt-3">
+              <motion.div
+                animate={{
+                  rotate: selectedPost === "about" ? 180 : 0,
+                }}
+                transition={{
+                  duration: 0.3,
+                  ease: "easeInOut",
+                }}
+              >
+                <svg
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="opacity-60"
+                >
+                  <path d="M6 9l6 6 6-6" />
+                </svg>
+              </motion.div>
+            </div>
             <AnimatePresence>
               {selectedPost === "about" && (
                 <motion.div
