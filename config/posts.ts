@@ -20,7 +20,7 @@ export const posts = [
     id: 'alongside-2',
     title: 'Pal',
     description: 'An interactive character AI Companion',
-    image: '/images/alo-logo.webp',
+    image: '/images/alo-logo2.webp',
     category: 'Startup',
     date: '2023'
   },
@@ -28,7 +28,7 @@ export const posts = [
     id: 'alongside-3',
     title: 'Creator',
     description: 'Agentic AI Workspace',
-    image: '/images/alo-logo.webp',
+    image: '/images/alo-logo3.webp',
     category: 'Startup',
     date: '2024'
   },
@@ -52,7 +52,7 @@ export const posts = [
     id: 'safet',
     title: 'Safe.t',
     description: 'End-to-End Covid Tracing and Triage',
-    image: '/images/creator0.webp',
+    image: '/images/safet-logo.webp',
     category: 'Health',
     date: '2020'
   },
