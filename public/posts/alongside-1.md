@@ -1,23 +1,23 @@
 # ALONGSIDE
 
-A collection of demos from my last startup, exploring the future of human-AI interaction through personal robots, AI notebooks, and virtual companions.
+![Alongside](/images/alo-logo-text.webp)
+
+Alongside was a Human Interface company working towards building the next generation interface for AI interaction across Robotics, Software & XR. Our first product was a social robot called Robin
 
 ## Robin - Personal Robot for Remote Knowledge Workers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/419WnrcqdPE" frameborder="0" allowfullscreen></iframe>
 
-## Creator - AI Notebook
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWj0LW8oC34" frameborder="0" allowfullscreen></iframe>
-
-## Pals - Virtual Companions
-<iframe width="560" height="315" src="https://www.youtube.com/embed/typVjspgyz4" frameborder="0" allowfullscreen></iframe>
-
-# Robin
-
 ## Overview
 
-Robin is an innovative demo exploring the future of human-AI interaction. As part of our research into collaborative AI systems, Robin demonstrates how artificial intelligence can become a natural extension of human creativity and problem-solving.
+Robin is an interactive AI-powered Social Robot that plays the role of a co-working companion. It was designed for human-like interactions, emotional intelligence and assistive companionship. 
+
+Most AIs are built to answer questions. Robin was built to ask them back.
 
 ## Features
+
+![Robin Interface](/images/robin_roles_overview.webp)
+![Robin Interface](/images/robin_features.webp)
+![Robin Interface](/images/robin_product_desc.webp)
 
 - Intuitive conversation interface that adapts to user communication styles
 - Contextual awareness of project goals and user preferences
@@ -35,8 +35,6 @@ Robin can assist with various creative and productive tasks:
 ## Technology
 
 Robin leverages advanced natural language processing and a sophisticated understanding of human cognitive patterns to create an AI assistant that feels like a thoughtful collaborator rather than just a tool.
-
-![Robin Interface](/images/alo-logo.webp)
 
 ## Future Development
 

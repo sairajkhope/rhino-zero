@@ -4,6 +4,9 @@
 
 Pal is an experimental interface that reimagines daily interactions between humans and AI systems. This demo explores new paradigms for integrating AI assistance into everyday activities with minimal friction and maximum benefit.
 
+## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/typVjspgyz4" frameborder="0" allowfullscreen></iframe>
+
 ## Key Innovations
 
 - Ambient awareness that provides help without explicit requests
