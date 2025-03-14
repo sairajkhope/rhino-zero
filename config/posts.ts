@@ -36,7 +36,7 @@ export const posts = [
     id: 'ontheprowl-1',
     title: 'OnTheProwl',
     description: 'Explorers guide to Indias National Parks',
-    image: '/images/ava0.webp',
+    image: '/images/otp_artboard.webp',
     category: 'Startup',
     date: '2020'
   },
@@ -44,7 +44,7 @@ export const posts = [
     id: 'ontheprowl-2',
     title: 'OnTheProwl v2',
     description: 'Travel with your tribe',
-    image: '/images/ava0.webp',
+    image: '/images/otp_cover.webp',
     category: 'Startup',
     date: '2021'
   },
