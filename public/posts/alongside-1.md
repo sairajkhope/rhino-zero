@@ -13,6 +13,26 @@ Robin is an interactive AI-powered Social Robot that plays the role of a co-work
 
 Most AIs are built to answer questions. Robin was built to ask them back.
 
+## 3D Model Showcase
+
+<div className="spline-container" style="width: 100%; height: 500px; position: relative;">
+  <iframe 
+    src="https://my.spline.design/your-robin-model-url" 
+    frameborder="0" 
+    width="100%" 
+    height="100%" 
+    style="border-radius: 12px;"
+    allow="autoplay; fullscreen; vr"
+    loading="lazy">
+  </iframe>
+</div>
+
+<p className="caption">Our first 3D render of Robin - interactive model (try rotating and zooming)</p>
+
+##Problem Statement
+
+##Approach
+
 ## Features
 
 ![Robin Interface](/images/robin_roles_overview.webp)

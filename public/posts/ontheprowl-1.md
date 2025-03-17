@@ -8,11 +8,12 @@ OnTheProwl was India's largest Explorer's guide on National Parks & Wildlife San
 
 ## Problem Statement
 
-## Core Technologies
-
 ## Research Findings
 
 ## Design Approach
+
+![OnTheProwl Branding](/images/otp_stylesheet_2.webp)
+![OnTheProwl Branding](/images/otp_stylesheet_3.webp)
 
 ![OnTheProwl Interface](/images/otp_parkpage.webp)
 
@@ -77,4 +78,5 @@ OnTheProwl built a thriving community of wildlife enthusiasts, photographers, an
 </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
 
-## Impact
+
+
