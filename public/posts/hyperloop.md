@@ -2,7 +2,9 @@
 
 ## Overview
 
-Hyperloop India represents India's first venture into the revolutionary Hyperloop transportation technology. Launched in 2017, this pioneering project brought together engineers, designers, and visionaries to develop India's first Hyperloop pod prototype, positioning the country at the forefront of next-generation transportation innovation.
+Hyperloop India represents India's first venture into the revolutionary Hyperloop transportation technology. Launched in 2017, this pioneering project brought together engineers, designers, and visionaries to develop India's first Hyperloop pod prototype, positioning the country at the forefront of next-generation transportation innovation. I had the opportunity to leade this wonderful team and this gave me an incredible opportunity to learn, network and be able to dream ambitiously about all my projects
+
+![Hyperloop India Logo](/images/loop-full.webp)
 
 ## The Challenge
 
@@ -33,8 +35,6 @@ Beyond the competition, Hyperloop India initiated important conversations about:
 - Reduction of intercity travel times across the subcontinent's vast geography
 - Decreased carbon emissions through efficient electric transportation
 - Development of indigenous high-tech transportation solutions
-
-![Hyperloop India Pod](/images/creator0.webp)
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=R2Eb02S82cc" frameborder="0" allowfullscreen></iframe>
 

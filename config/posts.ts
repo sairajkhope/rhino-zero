@@ -53,7 +53,7 @@ export const posts = [
     title: 'Safe.t',
     description: 'End-to-End Covid Tracing and Triage',
     image: '/images/safet-logo.webp',
-    category: 'Health',
+    category: 'Healthtech',
     date: '2020'
   },
   {
@@ -61,7 +61,7 @@ export const posts = [
     title: 'Hyperloop India',
     description: 'Indias first Hyperloop Pod',
     image: '/images/loop-mini.webp',
-    category: 'Electric Vehicles, Mobility',
+    category: 'Mobility',
     date: '2017'
   },
 ];

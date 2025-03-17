@@ -45,7 +45,7 @@ Pal AI flexes between different modes of interaction, much like you don't speak 
 - Everyday Confidant: For those moments when you need someone who remembers your coffee order AND your existential crises
 - Proactive Assistant: Anticipates needs based on contextual cues and memory—reminds you to pack an umbrella because it remembers your last trip was ruined by rain
 - Riot Mode: Productivity without pretension—helping you craft that tweet that sounds casual but took fourteen drafts
-- Ideas Mode: A collaborative thought playground where half-formed concepts grow into actual plans through branching conversations
+- Ideas Mode: A collaborative thought playground (Canvas) where half-formed concepts grow into actual plans through branching conversations
 - Life Assistant: Subtle reminders about that meeting you're definitely forgetting, without the judgment
 
 ## Research Insights
@@ -54,6 +54,8 @@ Our approach is grounded in established research on human-computer interaction a
 
 Our avatar design builds on Cassell's research on embodied conversational agents which established four critical abilities for effective human-computer interaction: recognizing and responding to verbal and nonverbal input; generating appropriate verbal and nonverbal output; managing conversational functions like turn-taking; and providing signals that indicate the state of the conversation.
 
+We also found that maintaining a balance of professional utility with a sprinkle of humor and unpredictability significantly increased user engagement. Users reported feeling more at ease interacting with Pal AI, stating that humor made their interactions feel less transactional and more genuinely conversational, aligning closely with Reeves and Nass’s "Media Equation" research (Stanford) on how humans instinctively respond socially to computers that exhibit human-like characteristics.
+
 The social dimensions of our system are informed by research on parasocial relationships with technology. As Lee et al. noted, unlike virtual characters in a TV set, physically embodied agents "can be experienced through all human senses" which potentially strengthens social responses.
 
 Our memory system incorporates principles from Horvitz's research at Microsoft on mixed-initiative interaction, particularly the importance of representing uncertainty about user needs and providing means for "users and computers to communicate information about intended or ongoing contributions to a solution."
@@ -61,10 +63,17 @@ Our memory system incorporates principles from Horvitz's research at Microsoft o
 These design choices align with findings from social response studies showing that people often mindlessly apply social rules to computers, exhibiting behaviors such as politeness and reciprocity even when interacting with technology rather than humans.
 
 Through user testing with Pal, with about 60 users over the span of a month, we found that
-- Preference patterns in human-AI interaction
-- Trust development between users and AI systems
-- The balance between proactive assistance and user agency
-- Design elements that create emotional connection with digital assistants
+- Preference patterns & trust development between human-AI interaction align more towards a balance of emotional engagement and functional usability for the experience to stick
+- The balance between proactive assistance and user agency is a delicate line between improved engagement and irritable in terms of how often and contextual the proactivity is. Hence it makes sense for users to have control over the level of proactivity that can be showcased by the AI
+- Design elements that create emotional connection with digital assistants and introduce new types of interface elements and custom widgets certainly add a lot of depth over the usual chat based interaction that's a basal interaction paradigm with an AI
+
+##Challenges
+
+Despite our innovations, Pal AI faced significant hurdles that ultimately prevented its widespread adoption:
+
+The memory-intensive nature of storing personalized user data collided with privacy regulations that emerged in 2024. The cost of secure, compliant data storage proved prohibitively expensive for a startup without significant backing. Additionally, we underestimated the technical complexity of creating truly meaningful memory systems—shallow implementation risked feeling gimmicky, while deep implementation required infrastructure beyond our means.
+Perhaps most challenging was the psychological cliff we encountered: as users formed stronger bonds with their sidekicks, their expectations escalated beyond what our technology could deliver. The more human-like the interaction became, the more disappointed users felt when hitting the inevitable limitations. This "uncanny valley of relationship expectations" created a paradox we struggled to solve.
+
 
 ##Future Vision
 
@@ -80,4 +89,8 @@ Natural Voice Interaction : Upgrading our voice interaction systems to achieve n
 
 Predictive Assistance : Integrating advanced machine learning models to enable proactive, context-aware actions that anticipate user needs before explicit user requests.
 
-Pal continues to inform our understanding of how AI can become a seamless part of human experience. 
+##Conclusion
+
+Pal AI Sidekick wasn't trying to replace human connections—it was designed to fill that space between the search bar and the contact list. We created it for those moments when you needed someone who remembered your context without the baggage of human judgment. Despite the promising prototype and enthusiastic early user feedback, several challenges prevented the project from fully materializing.
+
+Though Pal AI Sidekick didn't reach its full potential, the core insights around embodied characters, editable memory, and relationship-centered design have influenced subsequent projects from my team and I. This information
