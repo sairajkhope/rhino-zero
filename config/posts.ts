@@ -19,7 +19,7 @@ export const posts = [
   {
     id: 'alongside-2',
     title: 'Pal',
-    description: 'An interactive character AI Companion',
+    description: 'Personal AI Sidekick experience',
     image: '/images/alo-logo2.webp',
     category: 'Startup',
     date: '2023'
@@ -61,7 +61,7 @@ export const posts = [
     title: 'Hyperloop India',
     description: 'Indias first Hyperloop Pod',
     image: '/images/loop-mini.webp',
-    category: 'Health',
+    category: 'Electric Vehicles, Mobility',
     date: '2017'
   },
 ];
