@@ -8,7 +8,7 @@ Hyperloop India represents India's first venture into the revolutionary Hyperloo
 
 ## The Challenge
 
-The Hyperloop concept, originally proposed by Elon Musk, envisions passenger pods traveling through low-pressure tubes at speeds exceeding 700 mph (1,100 km/h), potentially revolutionizing long-distance transportation. Our team took on the immense challenge of designing, building, and testing a functional Hyperloop pod from the ground up, competing with teams from around the world.
+The Hyperloop concept, originally proposed by Elon Musk, envisions passenger pods traveling through low-pressure tubes at speeds exceeding 700 mph (1,100 km/h), potentially revolutionizing long-distance transportation. Our team took on the immense challenge of designing, building, and testing a functional Hyperloop pod from the ground up, competing with teams from around the world for the goal of building the fastest pod across a 1-mile tunnel in the SpaceX Hyperloop Testing Facility.
 
 ## Technical Innovation
 
@@ -36,7 +36,7 @@ Beyond the competition, Hyperloop India initiated important conversations about:
 - Decreased carbon emissions through efficient electric transportation
 - Development of indigenous high-tech transportation solutions
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=R2Eb02S82cc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R2Eb02S82cc?si=ZZnP--GMs__YH-u8" title="Hyperloop India Ketto Campaign" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Team

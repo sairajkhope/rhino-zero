@@ -27,7 +27,7 @@ export const posts = [
   {
     id: 'alongside-3',
     title: 'Creator',
-    description: 'Agentic AI Workspace',
+    description: 'Your Proactive AI teammate',
     image: '/images/alo-logo3.webp',
     category: 'Startup',
     date: '2024'

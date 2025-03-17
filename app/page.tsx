@@ -49,13 +49,15 @@ export default function Home() {
               </h1>
               <a
                 href="/resume"
-                className="text-sm opacity-60 hover:text-white"
+                className=""
                 // onMouseOver={(e) => {
                 //   e.preventDefault();
                 //   e.stopPropagation();
                 // }}
               >
+                <button className="rounded-md bg-gray-200 p-1 text-xs">
                 Resume
+                </button>
               </a>
             </div>
             <div className="text-sm opacity-60 text-[var(--foreground)]">

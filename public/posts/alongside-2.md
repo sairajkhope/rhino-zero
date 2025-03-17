@@ -7,7 +7,7 @@ Remember that friend who knows what you need before you do? Pal AI Sidekick (Psy
 ## Demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/typVjspgyz4" frameborder="0" allowfullscreen></iframe>
 
-##Problem Statement
+## Problem Statement
 
 AI assistants have become widespread but remain fundamentally transactional. They're like goldfish in digital form—processing each query in isolation with no memory of your last conversation. Recent research confirms these systems are essentially "stateless," and "can only remember a finite amount of information before needing to completely reset their memory." It's the technological equivalent of having the same first date over and over again.
 
@@ -34,7 +34,7 @@ The "memories page" is where the magic happens—or rather, where the meticulous
 - Gives you editor privileges to add, delete, or modify what your AI remembers
 - Creates transparency in an age where algorithms typically operate behind an impenetrable curtain
 - Enables your AI to casually mention your love of football without awkwardly forcing it into every conversation
-- Powers proactive assistance by anticipating needs based on past patterns—suggesting a coffee shop when you're in a new neighborhood because it remembers you're a cappuccino enthusiast, or offering to draft a congratulatory message when it knows your friend just got promoted
+- **Powers proactive assistance** by anticipating needs based on past patterns—suggesting a coffee shop when you're in a new neighborhood because it remembers you're a cappuccino enthusiast, or offering to draft a congratulatory message when it knows your friend just got promoted
 
 This isn't just a technical feature; it's digital memory infrastructure with human-like flexibility—where knowledge evolves naturally and adapts to changing contexts without requiring constant retraining.
 
@@ -42,11 +42,11 @@ This isn't just a technical feature; it's digital memory infrastructure with hum
 
 Pal AI flexes between different modes of interaction, much like you don't speak to your boss the same way you speak to your dog:
 
-- Everyday Confidant: For those moments when you need someone who remembers your coffee order AND your existential crises
-- Proactive Assistant: Anticipates needs based on contextual cues and memory—reminds you to pack an umbrella because it remembers your last trip was ruined by rain
-- Riot Mode: Productivity without pretension—helping you craft that tweet that sounds casual but took fourteen drafts
-- Ideas Mode: A collaborative thought playground (Canvas) where half-formed concepts grow into actual plans through branching conversations
-- Life Assistant: Subtle reminders about that meeting you're definitely forgetting, without the judgment
+- **Everyday Confidant**: For those moments when you need someone who remembers your coffee order AND your existential crises
+- **Proactive Assistant**: Anticipates needs based on contextual cues and memory—reminds you to pack an umbrella because it remembers your last trip was ruined by rain
+- **Riot Mode**: Productivity without pretension—helping you craft that tweet that sounds casual but took fourteen drafts
+- **Ideas Mode**: A collaborative thought playground (Canvas) where half-formed concepts grow into actual plans through branching conversations
+- **Life Assistant**: Subtle reminders about that meeting you're definitely forgetting, without the judgment
 
 ## Research Insights
 
@@ -67,7 +67,7 @@ Through user testing with Pal, with about 60 users over the span of a month, we 
 - The balance between proactive assistance and user agency is a delicate line between improved engagement and irritable in terms of how often and contextual the proactivity is. Hence it makes sense for users to have control over the level of proactivity that can be showcased by the AI
 - Design elements that create emotional connection with digital assistants and introduce new types of interface elements and custom widgets certainly add a lot of depth over the usual chat based interaction that's a basal interaction paradigm with an AI
 
-##Challenges
+## Challenges
 
 Despite our innovations, Pal AI faced significant hurdles that ultimately prevented its widespread adoption:
 
@@ -75,21 +75,21 @@ The memory-intensive nature of storing personalized user data collided with priv
 Perhaps most challenging was the psychological cliff we encountered: as users formed stronger bonds with their sidekicks, their expectations escalated beyond what our technology could deliver. The more human-like the interaction became, the more disappointed users felt when hitting the inevitable limitations. This "uncanny valley of relationship expectations" created a paradox we struggled to solve.
 
 
-##Future Vision
+## Future Vision
 
 Our vision for Pal AI included several ambitious milestones from our drawing board:
 
-Enhanced Ideas Mode : Developing advanced branching dialogues and collaborative planning tools to support more creative, divergent thinking.
+**Enhanced Ideas Mode** : Developing advanced branching dialogues and collaborative planning tools to support more creative, divergent thinking.
 
-Lifestyle Widgets : Rolling out personalized, user-curated dashboard widgets designed to turn mundane tasks into manageable and enjoyable activities.
+**Lifestyle Widgets** : Rolling out personalized, user-curated dashboard widgets designed to turn mundane tasks into manageable and enjoyable activities.
 
-Cross-Device Presence : Ensuring seamless companion experiences across mobile, desktop, and emerging device categories, maintaining continuity and context without disruptions.
+**Cross-Device Presence** : Ensuring seamless companion experiences across mobile, desktop, and emerging device categories, maintaining continuity and context without disruptions.
 
-Natural Voice Interaction : Upgrading our voice interaction systems to achieve near-human conversational fluency, reducing repetitive and frustrating interactions.
+**Natural Voice Interaction** : Upgrading our voice interaction systems to achieve near-human conversational fluency, reducing repetitive and frustrating interactions.
 
-Predictive Assistance : Integrating advanced machine learning models to enable proactive, context-aware actions that anticipate user needs before explicit user requests.
+**Predictive Assistance** : Integrating advanced machine learning models to enable proactive, context-aware actions that anticipate user needs before explicit user requests.
 
-##Conclusion
+## Conclusion
 
 Pal AI Sidekick wasn't trying to replace human connections—it was designed to fill that space between the search bar and the contact list. We created it for those moments when you needed someone who remembered your context without the baggage of human judgment. Despite the promising prototype and enthusiastic early user feedback, several challenges prevented the project from fully materializing.
 
