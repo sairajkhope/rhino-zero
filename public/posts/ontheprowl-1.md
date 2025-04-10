@@ -8,7 +8,7 @@ OnTheProwl was India's largest Explorer's guide on National Parks & Wildlife San
 
 ## Problem Statement
 
-
+As Wildlife lovers in India, the best way to experience wildlife is via Safaris across National Parks & Tiger reserves in the country. But the biggest problem is access to these Safaris. Different National Parks either have their own portals which are hard to access or some of them do not even have a way of booking safaris online. This broken infrastructure caused a lot of issues in terms of lack of transparency & indirect access through improper channels for getting a booking. Our goal was to change that and build a unified platform to access Safari booking for Tiger Reserves across the country & access to all the information which was vetted by experts who are regular visitors of these parks.
 
 ## Research Findings
 
