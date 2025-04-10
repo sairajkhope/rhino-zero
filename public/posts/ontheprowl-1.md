@@ -12,10 +12,10 @@ OnTheProwl was India's largest Explorer's guide on National Parks & Wildlife San
 
 ## Design Approach
 
+As a co-founder and one of the two designers on the project I worked on both the Branding & Website Design & Architecture. 
+
 ![OnTheProwl Branding](/images/otp_stylesheet_2.webp)
 ![OnTheProwl Branding](/images/otp_stylesheet_3.webp)
-
-![OnTheProwl Interface](/images/otp_parkpage.webp)
 
 ## Team
 
@@ -80,5 +80,5 @@ OnTheProwl built a thriving community of wildlife enthusiasts, photographers, an
 
 ## Future Vision
 
-New version of the website Coming soon
+With overwhelming demand & support, a reimagined version of our platform is making a frantic return. I see it's vision as a very detailed encyclopedia & community for naturalists & explorers of the new age.[Coming Soon](#)
 

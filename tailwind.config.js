@@ -21,7 +21,7 @@ module.exports = {
         }
       },
       fontFamily: {
-        sans: ['var(--font-geist-sans)'],
+        sans: ['var(--font-manrope)'],
         mono: ['var(--font-geist-mono)'],
       },
     },

@@ -4,7 +4,7 @@
 
 Alongside was a Human Interface company working towards building the next generation interface for AI interaction across Robotics, Software & XR. Our first product was a social robot called Robin
 
-## Robin - Personal Robot for Remote Knowledge Workers
+# Robin - Personal Robot for Remote Knowledge Workers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/419WnrcqdPE" frameborder="0" allowfullscreen></iframe>
 
 ## Overview
@@ -15,23 +15,23 @@ Most AIs are built to answer questions. Robin was built to ask them back.
 
 ## 3D Model Showcase
 
-<div className="spline-container" style="width: 100%; height: 500px; position: relative;">
+<div style="width: 100%; height: 500px; position: relative; margin-bottom: 20px;">
   <iframe 
-    src="https://my.spline.design/your-robin-model-url" 
+    src="https://prod.spline.design/BfIuasjtB2AjdCyC/scene.splinecode" 
     frameborder="0" 
     width="100%" 
     height="100%" 
     style="border-radius: 12px;"
-    allow="autoplay; fullscreen; vr"
+    allow="autoplay; fullscreen"
     loading="lazy">
   </iframe>
 </div>
 
-<p className="caption">Our first 3D render of Robin - interactive model (try rotating and zooming)</p>
+<p style="text-align: center; margin-top: -15px; font-style: italic;">Our first 3D render of Robin - interactive model (try rotating and zooming)</p>
 
-##Problem Statement
+## Problem Statement
 
-##Approach
+## Approach
 
 ## Features
 
