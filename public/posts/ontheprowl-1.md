@@ -8,11 +8,13 @@ OnTheProwl was India's largest Explorer's guide on National Parks & Wildlife San
 
 ## Problem Statement
 
+
+
 ## Research Findings
 
 ## Design Approach
 
-As a co-founder and one of the two designers on the project I worked on both the Branding & Website Design & Architecture. 
+As a co-founder I worked on Design, Business Strategy & Content for the knowledge platform. Our main brand & Visual Design was the Mastermind of [Shashank Seth](https://shashankseth.in/) & with his creative direction we concocted a very unique stylization which was inspired by tribal and modern influences.
 
 ![OnTheProwl Branding](/images/otp_stylesheet_2.webp)
 ![OnTheProwl Branding](/images/otp_stylesheet_3.webp)
@@ -80,5 +82,5 @@ OnTheProwl built a thriving community of wildlife enthusiasts, photographers, an
 
 ## Future Vision
 
-With overwhelming demand & support, a reimagined version of our platform is making a frantic return. I see it's vision as a very detailed encyclopedia & community for naturalists & explorers of the new age.[Coming Soon](#)
+With overwhelming demand & support, a reimagined version of our platform is making a frantic return. I see it's vision as a very detailed encyclopedia & community for naturalists & explorers of the new age. [Coming Soon](#)
 
