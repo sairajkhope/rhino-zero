@@ -12,12 +12,26 @@ As Wildlife lovers in India, the best way to experience wildlife is via Safaris 
 
 ## Research Findings
 
+
+
 ## Design Approach
 
 As a co-founder I worked on Design, Business Strategy & Content for the knowledge platform. Our main brand & Visual Design was the Mastermind of [Shashank Seth](https://shashankseth.in/) & with his creative direction we concocted a very unique stylization which was inspired by tribal and modern influences.
 
 ![OnTheProwl Branding](/images/otp_stylesheet_2.webp)
 ![OnTheProwl Branding](/images/otp_stylesheet_3.webp)
+
+As for our web platform, our goal was to work on each park page as a downloadable guide which people could carry into their pockets while exploring the parks where internet connectivity is minimal. As such, for the many National parks which did not have well-drawn maps, we traced the maps, added appropriate legends and redrew all of them with our defined visual style.
+
+![OnTheProwl Maps](/images/)
+
+<p style="text-align: center; margin-top: -15px; font-style: italic;">credits Kunal Sawant, Shashank Seth</p>
+
+The other goal was to have a more community focused angle towards our platform. So we onboarded a group of wildlife photographers with a significant presence on Instagram and asked them to provide photos of Tigers and other wildlife for each of the Wildlife reserves that we had planned to include on our page.
+
+![OnTheProwl Park Page](/images/otp_parkpage.webp)
+
+Each page also has information on the Safari timings, links to the right booking portal, Major Attractions & 
 
 ## Team
 

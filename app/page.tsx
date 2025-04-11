@@ -48,15 +48,18 @@ export default function Home() {
                 Sairaj Khope
               </h1>
               <a
-                href="/resume"
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className=""
-                // onMouseOver={(e) => {
-                //   e.preventDefault();
-                //   e.stopPropagation();
-                // }}
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  window.open("/resume.pdf", "_blank");
+                }}
               >
-                <button className="rounded-md bg-gray-200 p-1 text-xs">
-                Resume
+                <button className="rounded-md bg-[var(--highlight)] p-1.5 text-xs font-medium text-[var(--foreground)] hover:bg-[var(--border)] transition-colors">
+                  Resume
                 </button>
               </a>
             </div>
